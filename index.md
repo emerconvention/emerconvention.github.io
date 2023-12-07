@@ -13,7 +13,6 @@
 
 EMER Convention in 2024 will be orginized by Slovak SA Fellowship in beatiful city of [Mikulov](https://www.mikulov.cz/) in Czech Republic, where there are no SA presence yet. This Convetion theme is ***Carry The Message*** and we want to bring The Message of recovery to this country. 
 
-[Download Presentation about Convention](assets/files/EMER_Regional_Convention_2024.pptx)
 
 ## Venue
 
