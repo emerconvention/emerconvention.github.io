@@ -1,12 +1,13 @@
-remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: BDHU/minimalist
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: EMER Convention 2024
 description: Information about EMER SA Convetion organised by Slovak SA fellowship
-show_downloads: true
+#show_downloads: true
 logo: "assets/img/Sexaholics_Anonymous_Logo.jpg"
-table_of_content: true
+#table_of_content: true
 
 github:
   is_project_page: false
