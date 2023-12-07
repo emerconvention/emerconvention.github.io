@@ -17,7 +17,7 @@ EMER Convention in 2024 will be orginized by Slovak SA Fellowship in beatiful ci
 
 ## Venue
 
-['Hotel Galant \*\*\*\*'](https://galant.cz/hotel-galant-mikulov/)
+[Hotel Galant \*\*\*\*](https://galant.cz/hotel-galant-mikulov/)
 
 ## Travel
 TBD
