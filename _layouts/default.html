@@ -31,6 +31,13 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.github.presentation_url }}">Download <strong>Presentation</strong></a></li>
+          <li><a href="{{ site.github.flyer_url }}">Download <strong>Flyer</strong></a></li>
+        </ul>
+        {% endif %}
+
         {% if site.table_of_content %}
         <p class="view">
           <li><a href="{{ "/#emer-convention-2024" | absolute_url }}">Home</a></li>
@@ -41,12 +48,6 @@
         </p>
         {% endif %}
 
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.presentation_url }}">Download <strong>Presentation</strong></a></li>
-          <li><a href="{{ site.github.flyer_url }}">Download <strong>Flyer</strong></a></li>
-        </ul>
-        {% endif %}
       </header>
       <section>
 
