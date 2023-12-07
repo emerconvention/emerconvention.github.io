@@ -1,9 +1,14 @@
 # EMER Convention 2024
 ***Carry The Message***
+
 [Home](#emer-convention-2024)
+
 [Venue](#venue)
+
 [Travel](#travel)
+
 [Signup](#signup)
+
 [Contact](#contact)
 
 - **Date**: 20.-22. September 2024
