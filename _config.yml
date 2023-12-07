@@ -4,7 +4,7 @@ plugins:
 
 title: EMER Convention 2024
 description: Information about EMER SA Convetion organised by Slovak SA fellowship
-show_downloads: false
+show_downloads: true
 logo: "assets/img/Sexaholics_Anonymous_Logo.jpg"
 
 github:
@@ -12,3 +12,4 @@ github:
   is_user_page: false
   presentation_url: "assets/files/EMER_Regional_Convention_2024.pptx"
   flyer_url: "assets/files/flyer.pdf"
+  table_of_content: true
