@@ -29,22 +29,19 @@ Accommodation for the event is at your own expense.
 
 ### Contractually Agreed Prices
 #### Prices per Night
-| Room Type  | Price / Night (CZK) | Price / Night (&euro;) |
-|------------|---------------------|-------------------|
-| 1-bed room | 2060 CZK            | &euro;94               |
-| 2-bed room | 2545 CZK            | &euro;115              |
-
-#### Prices for stay
-| Room Type  | Total Stay (CZK) | Total Stay (&euro;) |
-|------------|------------------|----------------|
-| 1-bed room | 4120 CZK         | &euro;188           |
-| 2-bed room | 5090 CZK         | &euro;230           |
-
-| Room Type              | Price for Night CZK | Price for Night EUR |
+| Room Type              | Price for Night (CZK) | Price for Night (&euro;) |
 |------------------------|------|------------------------|
 | **1-bed room** | 2060 CZK   | &euro;94|
 | **2-bed room** | 2545 CZK | &euro;115|
 | **2-bed room (2 people)** | 1272.5 CZK  | &euro;57.5|
+
+
+#### Prices for stay
+| Room Type              | Price for Night (CZK) | Price for Night (&euro;) |
+|------------------------|------|------------------------|
+| **1-bed room** | 4120 CZK   | &euro;188|
+| **2-bed room** | 5090 CZK | &euro;230|
+| **2-bed room (2 people)** | 2045 CZK  | &euro;115|
 
 
 - Breakfast is included in the price of accommodation.
@@ -97,7 +94,7 @@ Make use of general travel planning resources such as Rome2Rio, Google Maps, or 
 
 To signup for the convetion please fill out the registration form bellow or [follow this link to fill out the Form](https://docs.google.com/forms/d/e/1FAIpQLSfrXthF8f3EfZ_llgxUK61SaY7R2xYzqEHe69GM4rcCFeCCzQ/viewform?usp=sf_link){:target="_blank"}.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrXthF8f3EfZ_llgxUK61SaY7R2xYzqEHe69GM4rcCFeCCzQ/viewform?embedded=true" width="480" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrXthF8f3EfZ_llgxUK61SaY7R2xYzqEHe69GM4rcCFeCCzQ/viewform?embedded=true" width="460" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Contact 
 For any question please contact our official email address: <emer.convention.2024@gmail.com>
