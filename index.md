@@ -28,11 +28,10 @@ Accommodation for the event is at your own expense.
 - Mention "Rule 62" in the email.
 
 ### Contractually Agreed Prices
-| Room Type                           | Price per Night (CZK) | Price per Night (€)* | Total Stay Cost (CZK) | Total Stay Cost (€)* |
-|-------------------------------------|-----------------------|----------------------|------------------------|----------------------|
-| 1-bed room                          | 2060 CZK              | €94*                 | 4120 CZK               | €188*                |
-| 2-bed room                          | 2545 CZK              | €115*                | 5090 CZK               | €230*                |
-| 2-bed room (occupied by 2 people)   | 1272.5 CZK            | €57.5*               | 2545 CZK               | €115*                |
+| Room Type  | Price / Night (CZK) | Price / Night (€)* | Total Stay (CZK) | Total Stay (€)* |
+|------------|---------------------|--------------------|------------------|-----------------|
+| 1-bed room | 2060 CZK            | €94*               | 4120 CZK         | €188*           |
+| 2-bed room | 2545 CZK            | €115*              | 5090 CZK         | €230*           |
 
 - Breakfast is included in the price of accommodation.
 - Prices include local tax
