@@ -37,13 +37,9 @@ Accommodation for the event is at your own expense.
 
 \*Note: Prices in € for accommodation are indicative (depends on conversion rate CZK=EUR). Reservations and payments for accommodation are handled directly with the hotel as stated above.
 
-## Dietary Information
+## Meals
 - Breakfast included in the price of accommodation
 - Lunches and dinners in the form of buffet tables - €20 per meal (full board €80)
-
-| Price per meal | Full Board |
-|----------------|------------|
-| €20            | €80        |
 
 
 ## Price
