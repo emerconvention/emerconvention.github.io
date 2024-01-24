@@ -5,7 +5,7 @@
 - **Time**: Registration starts at 17:00, Friday
 - **Location**: Mikulov – South Moravia, Czech Republic  
 
-EMER Convention in 2024 will be orginized by Slovak SA Fellowship in beatiful city of [Mikulov](https://www.mikulov.cz/){:target="_blank"} in Czech Republic, where there are no SA presence yet. This Convetion theme is ***Rule 62 - Don´t take yourself too damn serious***
+EMER Convention in 2024 will be orginized by Slovak SA Fellowship in beatiful city of [Mikulov](https://www.mikulov.cz/){:target="_blank"} in Czech Republic, where there are no SA presence yet. 
 
 
 ## Venue
