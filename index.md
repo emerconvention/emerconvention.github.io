@@ -29,22 +29,22 @@ Accommodation for the event is at your own expense.
 
 ### Contractually Agreed Prices
 #### Prices per Night
-| Room Type  | Price / Night (CZK) | Price / Night (€)\* |
-|------------|---------------------|---------------------|
-| 1-bed room | 2060 CZK            | €94\*               |
-| 2-bed room | 2545 CZK            | €115\*              |
+| Room Type  | Price / Night (CZK) | Price / Night (€) |
+|------------|---------------------|-------------------|
+| 1-bed room | 2060 CZK            | €94               |
+| 2-bed room | 2545 CZK            | €115              |
 
 #### Prices for stay
-| Room Type  | Total Stay (CZK) | Total Stay (€)\* |
-|------------|------------------|------------------|
-| 1-bed room | 4120 CZK         | €188\*           |
-| 2-bed room | 5090 CZK         | €230\*           |
+| Room Type  | Total Stay (CZK) | Total Stay (€) |
+|------------|------------------|----------------|
+| 1-bed room | 4120 CZK         | €188           |
+| 2-bed room | 5090 CZK         | €230           |
 
 
 - Breakfast is included in the price of accommodation.
 - Prices include local tax
 
-*Note: Prices in € are indicative. Reservations and payments are handled directly with the hotel as stated above.
+\*Note: Prices in € are indicative. Reservations and payments are handled directly with the hotel as stated above.
 
 ## Dietary information
 - Breakfast included in the price of accommodation
