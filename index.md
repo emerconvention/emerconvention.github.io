@@ -14,11 +14,6 @@ EMER Convention in 2024 will be orginized by Slovak SA Fellowship in beatiful ci
 - [Mikulov Castle](https://www.google.com/maps/place/Mikulov+Castle/@48.8079081,16.6262848,16z/data=!4m7!3m6!1s0x476d32cd118e2bd1:0xdbebfeb9d7521f59!8m2!3d48.8066729!4d16.6365077!15sCg9taWt1bG92IGthc3RpZWxaESIPbWlrdWxvdiBrYXN0aWVskgELbWFub3JfaG91c2XgAQA!16s%2Fm%2F047m58g?entry=tts){:target="_blank"} - here will be some parts of the program
 
 
-## Price
-- register and pay till 20.2.2024 -> 55€
-- register and pay till 20.7.2024 -> 75€
-- register and pay till 20.8.2024 -> 95€
-
 ## Accommodation
 
 Accommodation for the event is at your own expense.
@@ -27,24 +22,39 @@ Accommodation for the event is at your own expense.
 - To stay directly on the spot, contact the Hotel Galant \*\*\*\* via email: [hotel@galant.cz](mailto:hotel@galant.cz)
 - Mention "Rule 62" in the email.
 
-### Contractually Agreed Prices
+### Room Prices
 
 | Room Type                           | Price per Night (CZK) | Price per Night (€)* | Total Stay Cost (CZK) | Total Stay Cost (€)* |
 |-------------------------------------|-----------------------|----------------------|------------------------|----------------------|
 | **1-bed room**                      | 2060 CZK              | €94\*                | 4120 CZK               | €188\*               |
-| **2-bed room**                       | 2545 CZK              | €115\*               | 5090 CZK               | €230\*               |
-| **2-bed room (occupied by 2 people)** | 1272.5 CZK            | €57.5\*              | 2545 CZK               | €115\*               |
+| **2-bed room**                       | 2545 CZK              | €115\*               | 5090 CZK               | €230\*              |
+| **2-bed room (occupied by 2 people)** | 1272.5 CZK            | €57.5\*              | 2545 CZK               | €115\*             |
 
 
 
 - Breakfast is included in the price of accommodation.
 - Prices include local tax
 
-\*Note: Prices in € are indicative. Reservations and payments are handled directly with the hotel as stated above.
+\*Note: Prices in € for accommodation are indicative (depends on conversion rate CZK=EUR). Reservations and payments for accommodation are handled directly with the hotel as stated above.
 
-## Dietary information
+## Dietary Information
 - Breakfast included in the price of accommodation
 - Lunches and dinners in the form of buffet tables - €20 per meal (full board €80)
+
+| Price per meal | Full Board |
+|----------------|------------|
+| €20            | €80        |
+
+
+## Price
+
+| Register & pay | Reg. only   | Reg. + meals | Reg. + meals + 2-bed room (occupied by 2 people)\* | Reg. + meals + 2-bed room\* | Reg. + meals + 1-bed room\*  |
+|----------------|-------------|--------------|---------------------------|---------------------------|------------------------|
+| Till 20.2.2024 | €55         | €135         | €250\*                    | €365\*                    | €323\*| 
+| Till 20.7.2024 | €75         | €155         | €270\*                    | €385\*                    | €343\*|
+| Till 20.8.2024 | €95         | €175         | €290\*                    | €405\*                    | €363\*| 
+
+\*Note: Prices in € for accommodation are indicative (depends on conversion rate CZK=EUR). Reservations and payments for accommodation are handled directly with the hotel as stated above.
 
 ## Transfer
 
@@ -60,7 +70,7 @@ Here are the three nearest airports to Mikulov in the Czech Republic:
 
 Travelers can consider these airports for convenient access to Mikulov.
 
-### Transfer from airport
+### Transfer from Airport
 We will try to arrange a transfer from Schwechat Airport (VIE) and Bratislava (BTS) on Friday around 2:00 p.m., also on Sunday after completion. The price is approximately €20-30 (we will specify the details by email to those interested). Register your interest in the registration form.
 
 
