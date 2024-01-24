@@ -29,6 +29,13 @@ Accommodation for the event is at your own expense.
 
 ### Contractually Agreed Prices
 #### Prices per Night
+
+| Airport                | Code | Distance from Mikulov |
+|------------------------|------|------------------------|
+| **Brno-Turany Airport** | BRQ  | Approx. 50 km (31 miles)|
+| **Vienna International Airport** | VIE | Approx. 89 km (55 miles)|
+| **Bratislava Airport** | BTS  | Approx. 136 km (85 miles)|
+
 | Room Type              | Price for Night CZK | Price for Night EUR |
 |------------------------|------|------------------------|
 | **1-bed room** | 2060 CZK   | &euro;94|
@@ -37,6 +44,13 @@ Accommodation for the event is at your own expense.
 
 
 #### Prices for stay
+
+| Airport                | Code | Distance from Mikulov |
+|------------------------|------|------------------------|
+| **Brno-Turany Airport** | BRQ  | Approx. 50 km (31 miles)|
+| **Vienna International Airport** | VIE | Approx. 89 km (55 miles)|
+| **Bratislava Airport** | BTS  | Approx. 136 km (85 miles)|
+
 | Room Type              | Price for Night CZK | Price for Night EUR |
 |------------------------|------|------------------------|
 | **1-bed room** | 4120 CZK   | &euro;188|
