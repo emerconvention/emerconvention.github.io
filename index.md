@@ -28,34 +28,13 @@ Accommodation for the event is at your own expense.
 - Mention "Rule 62" in the email.
 
 ### Contractually Agreed Prices
-#### Prices per Night
 
-| Airport                | Code | Distance from Mikulov |
-|------------------------|------|------------------------|
-| **Brno-Turany Airport** | BRQ  | Approx. 50 km (31 miles)|
-| **Vienna International Airport** | VIE | Approx. 89 km (55 miles)|
-| **Bratislava Airport** | BTS  | Approx. 136 km (85 miles)|
+| Room Type                           | Price per Night (CZK) | Price per Night (€)* | Total Stay Cost (CZK) | Total Stay Cost (€)* |
+|-------------------------------------|-----------------------|----------------------|------------------------|----------------------|
+| **1-bed room**                      | 2060 CZK              | €94\*                | 4120 CZK               | €188\*               |
+| **2-bed room**                       | 2545 CZK              | €115\*               | 5090 CZK               | €230\*               |
+| **2-bed room (occupied by 2 people)** | 1272.5 CZK            | €57.5\*              | 2545 CZK               | €115\*               |
 
-| Room Type              | Price for Night CZK | Price for Night EUR |
-|------------------------|------|------------------------|
-| **1-bed room** | 2060 CZK   | &euro;94|
-| **2-bed room** | 2545 CZK | &euro;115|
-| **2-bed room (2 people)** | 1272.5 CZK  | &euro;57.5|
-
-
-#### Prices for stay
-
-| Airport                | Code | Distance from Mikulov |
-|------------------------|------|------------------------|
-| **Brno-Turany Airport** | BRQ  | Approx. 50 km (31 miles)|
-| **Vienna International Airport** | VIE | Approx. 89 km (55 miles)|
-| **Bratislava Airport** | BTS  | Approx. 136 km (85 miles)|
-
-| Room Type              | Price for Night CZK | Price for Night EUR |
-|------------------------|------|------------------------|
-| **1-bed room** | 4120 CZK   | &euro;188|
-| **2-bed room** | 5090 CZK | &euro;230|
-| **2-bed room (2 people)** | 2045 CZK  | &euro;115|
 
 
 - Breakfast is included in the price of accommodation.
