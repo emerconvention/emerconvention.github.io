@@ -10,8 +10,8 @@ EMER Convention in 2024 will be orginized by Slovak SA Fellowship in beatiful ci
 
 ## Venue
 
-[Hotel Galant \*\*\*\*](https://galant.cz/hotel-galant-mikulov/){:target="_blank"} – South Moravia, Czech Republic, [map](https://maps.app.goo.gl/zuhJ16Ueq2uPm6GN7)
-[Mikulov Castle](https://www.google.com/maps/place/Mikulov+Castle/@48.8079081,16.6262848,16z/data=!4m7!3m6!1s0x476d32cd118e2bd1:0xdbebfeb9d7521f59!8m2!3d48.8066729!4d16.6365077!15sCg9taWt1bG92IGthc3RpZWxaESIPbWlrdWxvdiBrYXN0aWVskgELbWFub3JfaG91c2XgAQA!16s%2Fm%2F047m58g?entry=tts) - here will be some parts of the program
+- [Hotel Galant \*\*\*\*](https://galant.cz/hotel-galant-mikulov/){:target="_blank"} – South Moravia, Czech Republic, [map](https://maps.app.goo.gl/zuhJ16Ueq2uPm6GN7)
+- [Mikulov Castle](https://www.google.com/maps/place/Mikulov+Castle/@48.8079081,16.6262848,16z/data=!4m7!3m6!1s0x476d32cd118e2bd1:0xdbebfeb9d7521f59!8m2!3d48.8066729!4d16.6365077!15sCg9taWt1bG92IGthc3RpZWxaESIPbWlrdWxvdiBrYXN0aWVskgELbWFub3JfaG91c2XgAQA!16s%2Fm%2F047m58g?entry=tts) - here will be some parts of the program
 
 
 ## Price
