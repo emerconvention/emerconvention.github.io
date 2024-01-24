@@ -1,5 +1,5 @@
 # EMER Convention 2024
-***Rule 62 - Don´t take yourself too damn serious***
+***Rule \#62 - Don´t take yourself too damn serious***
 
 - **Date**: 20.-22. September 2024
 - **Time**: Registration starts at 17:00, Friday
@@ -24,7 +24,7 @@ EMER Convention in 2024 will be orginized by Slovak SA Fellowship in beatiful ci
 Accommodation for the event is at your own expense.
 
 ### Hotel Contact Information
-- To stay directly on the spot, contact the hotel via email: [hotel@galant.cz](mailto:hotel@galant.cz)
+- To stay directly on the spot, contact the Hotel Galant \*\*\*\* via email: [hotel@galant.cz](mailto:hotel@galant.cz)
 - Mention "Rule 62" in the email.
 
 ### Contractually Agreed Prices

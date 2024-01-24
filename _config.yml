@@ -1,10 +1,11 @@
 #remote_theme: pages-themes/minimal@v0.2.0
 remote_theme: BDHU/minimalist
+markdown: kramdown
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: EMER Convention 2024
-description: Rule 62 - Don´t take yourself too damn serious
+description: Rule \#62 - Don´t take yourself too damn serious
 #show_downloads: true
 logo: "assets/img/Sexaholics_Anonymous_Logo.jpg"
 #table_of_content: true
