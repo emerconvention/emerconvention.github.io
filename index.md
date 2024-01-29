@@ -1,5 +1,5 @@
 # EMER Convention 2024
-***Rule \#62 - Don´t take yourself too damn serious***
+***Rule \#62 - Don´t take yourself too damn seriously***
 
 - **Date**: 20.-22. September 2024
 - **Time**: Registration starts at 17:00, Friday
