@@ -24,10 +24,10 @@ Accommodation for the event is at your own expense.
 
 ### Room Prices
 
-| Room Type                           | Price per Night (CZK) | Price per Night (€)* | Total Stay Cost (CZK) | Total Stay Cost (€)* |
-|-------------------------------------|-----------------------|----------------------|------------------------|----------------------|
-| **1-bed room**                      | 2060 CZK              | €94\*                | 4120 CZK               | €188\*               |
-| **2-bed room**                       | 2545 CZK              | €115\*               | 5090 CZK               | €230\*              |
+| Room Type                             | Price per Night (CZK) | Price per Night (€)* | Total Stay Cost (CZK) | Total Stay Cost (€)* |
+|---------------------------------------|-----------------------|----------------------|------------------------|----------------------|
+| **1-bed room**                        | 2060 CZK              | €94\*                | 4120 CZK               | €188\*               |
+| **2-bed room (occupied by 1 person)** | 2545 CZK              | €115\*               | 5090 CZK               | €230\*              |
 | **2-bed room (occupied by 2 people)** | 1272.5 CZK            | €57.5\*              | 2545 CZK               | €115\*             |
 
 
@@ -44,7 +44,7 @@ Accommodation for the event is at your own expense.
 
 ## Price
 
-| Register & pay | Reg. only   | Reg. + meals | Reg. + meals + 2-bed room (occupied by 2 people)\* | Reg. + meals + 2-bed room\* | Reg. + meals + 1-bed room\*  |
+| Register & pay | Reg. only   | Reg. + meals | Reg. + meals + 2-bed room (occupied by 2 people)\* | Reg. + meals + 2-bed room (occupied by 1 person)\* | Reg. + meals + 1-bed room\*  |
 |----------------|-------------|--------------|---------------------------|---------------------------|------------------------|
 | Till 20.2.2024 | €55         | €135         | €250\*                    | €365\*                    | €323\*| 
 | Till 20.7.2024 | €75         | €155         | €270\*                    | €385\*                    | €343\*|

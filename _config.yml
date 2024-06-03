@@ -5,7 +5,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: EMER Convention 2024
-description: "Rule #62 - Don´t take yourself too damn serious"
+description: "Rule #62 - Don´t take yourself too damn seriously"
 #show_downloads: true
 logo: "assets/img/Sexaholics_Anonymous_Logo.jpg"
 #table_of_content: true
