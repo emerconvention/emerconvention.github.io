@@ -52,6 +52,24 @@ Accommodation for the event is at your own expense.
 
 \*Note: Prices in € for accommodation are indicative (depends on conversion rate CZK=EUR). Reservations and payments for accommodation are handled directly with the hotel as stated above.
 
+## Payment
+Payment for registration and meals is possible via bank transfer, PayPal or Stripe:
+### Bank transfer:
+- IBAN: SK36 8330 0000 0070 0273 1212
+- BIC: FIOZSKBAXXX
+- Bank Name: Fio banka, a.s.
+- Bank address: Dunajská 1, 811 08 Bratislava, Slovakia
+- Note: EMER Convention 2024
+
+### PayPal:
+- rule62.convention@gmail.com
+- https://www.paypal.com/paypalme/rule62convetion
+
+### Stripe: 
+- https://buy.stripe.com/cN217B9Z11oVcyk288
+
+![Stripe QR code](assets/img/stripe.jpeg)
+
 ## Transfer
 
 ### Flights
