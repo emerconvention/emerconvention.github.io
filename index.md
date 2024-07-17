@@ -68,7 +68,7 @@ Payment for registration and meals is possible via bank transfer, PayPal or Stri
 ### Stripe: 
 - [https://buy.stripe.com/cN217B9Z11oVcyk288](https://buy.stripe.com/cN217B9Z11oVcyk288){:target="_blank"} 
 
-![Stripe QR code](assets/img/stripe.jpeg)
+<img class="image" src="/assets/img/stripe.jpeg">
 
 ## Transfer
 
