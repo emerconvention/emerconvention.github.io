@@ -63,10 +63,10 @@ Payment for registration and meals is possible via bank transfer, PayPal or Stri
 
 ### PayPal:
 - rule62.convention@gmail.com
-- https://www.paypal.com/paypalme/rule62convetion
+- [https://www.paypal.com/paypalme/rule62convetion](https://www.paypal.com/paypalme/rule62convetion){:target="_blank"} 
 
 ### Stripe: 
-- https://buy.stripe.com/cN217B9Z11oVcyk288
+- [https://buy.stripe.com/cN217B9Z11oVcyk288](https://buy.stripe.com/cN217B9Z11oVcyk288){:target="_blank"} 
 
 ![Stripe QR code](assets/img/stripe.jpeg)
 
