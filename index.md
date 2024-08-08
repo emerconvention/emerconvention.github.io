@@ -41,6 +41,7 @@ Accommodation for the event is at your own expense.
 - Breakfast included in the price of accommodation
 - Lunches and dinners in the form of buffet tables - €20 per meal (full board €80)
 
+You can download the buffet menu [here.](assets/files/buffet_menu.pdf)
 
 ## Price
 
@@ -67,8 +68,6 @@ Payment for registration and meals is possible via bank transfer, PayPal or Stri
 
 ### Stripe: 
 - [https://buy.stripe.com/cN217B9Z11oVcyk288](https://buy.stripe.com/cN217B9Z11oVcyk288){:target="_blank"} 
-
-<img class="image" src="assets/img/stripe.jpeg">
 
 ## Transfer
 
