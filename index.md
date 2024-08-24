@@ -63,7 +63,6 @@ Payment for registration and meals is possible via bank transfer, PayPal or Stri
 - Note: EMER Convention 2024
 
 ### PayPal:
-- rule62.convention@gmail.com
 - [https://www.paypal.com/paypalme/rule62convetion](https://www.paypal.com/paypalme/rule62convetion){:target="_blank"} 
 
 ### Stripe: 
